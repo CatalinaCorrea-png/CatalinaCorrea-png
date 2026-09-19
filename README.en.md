@@ -116,8 +116,7 @@ VPS with Docker. A **design system I built** in `theme.css`: semantic tokens and
 
 `Kotlin 2.3` `Spring Boot` `React 19` `Tailwind 4` `i18next`
 
-> 🚧 Work in progress: the latest work lives on the `dev` branches — JWT authentication in the
-> [backend](https://github.com/CatalinaCorrea-png/outfit-maker-backend-kotlin/tree/dev) and internationalization in the [frontend](https://github.com/CatalinaCorrea-png/outfit-maker-frontend-react-ts/tree/dev).
+> 🚧 Work in progress
 
 A personal project. Kotlin + Spring Boot backend (JPA, Validation, Security + JWT);
 React 19 + TypeScript frontend with Tailwind 4, **i18n through i18next**, and accessibility
