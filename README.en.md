@@ -12,7 +12,7 @@ all containerized. I'm drawn to backend work and software architecture — and l
 to putting AI inside it.*
 
 [![Email](https://img.shields.io/badge/Email-catalinayazmincorrea%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:catalinayazmincorrea@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Catalina_Correa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catalina-yazm%C3%ADn-correa-576037211)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Catalina_Correa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catalina-yazmin-correa)
 ![Spanish](https://img.shields.io/badge/Spanish-Native-555?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-C1_Advanced-555?style=for-the-badge)
 
